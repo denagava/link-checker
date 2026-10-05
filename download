@@ -1,0 +1,8 @@
+links_data.json
+links_data.json.tmp
+*.pdf
+bin/
+*.exe
+.idea/
+.vscode/
+.DS_Store
